@@ -1,7 +1,7 @@
 
 # LangChain_with_Pinecone
 
-In this project, we will learn how to use PineCone.
+In this project, we will learn how to use Pinecone.
 using Langchain and how to use chat with your data
 
 ## Installation
